@@ -1,6 +1,6 @@
 <?php
 
-namespace denis909\yii\glyphicons;
+namespace denis909\glyphicons;
 
 use yii\web\AssetBundle;
 

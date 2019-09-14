@@ -1,1 +1,1 @@
-# yii-glyphicons
+# yii2-glyphicons
